@@ -1,2 +1,2 @@
 # Project-Template-Godot
-A generic template for a Godot project
+This is a juicy version of the breakout game with better looks
